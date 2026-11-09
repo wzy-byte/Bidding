@@ -1,0 +1,23 @@
+# Windows 系统文件
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# 编辑器与 IDE
+.vscode/
+.idea/
+*.tmp
+*.bak
+~$*
+
+# Obsidian 本地配置（工作区状态不入库，其余配置可保留）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# macOS
+.DS_Store
+
+# 临时导出
+*.pdf.tmp
